@@ -195,4 +195,4 @@ print("loss: " + loss)
 print("validation loss: " + val_loss)
 
 #saving the model
-model.save_weights('image_captioning_model_v2.h5')
+# model.save_weights('image_captioning_model_v2.h5')
