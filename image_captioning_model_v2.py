@@ -28,7 +28,7 @@ import tensorflow as tf
 # Loading the data
 #--------------------------------------
 
-#Loading laebls and texts
+#Loading lables and texts
 # Labels - image names form dataset
 # text - captions from dataset
 
