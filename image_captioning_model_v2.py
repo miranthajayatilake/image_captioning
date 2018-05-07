@@ -53,7 +53,7 @@ for entry in range(len(entries)-1):
     # print(data_point[0])
 
 
-#data limits
+#limiting the dataset
 texts = texts[:1000]
 labels = labels[:1000]
 
